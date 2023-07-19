@@ -219,3 +219,25 @@ nav ul li a:hover {
 #bitbucket {
     color: #205081;
 }
+
+#name-footer{
+ 
+    text-align: center;
+    margin: 0px;
+    padding: 0;
+    letter-spacing: 3px;
+    /* font-family: 'Roboto', serif; */
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Pacifico', cursive;
+    color: rgb(255, 239, 239);
+    
+
+}
+footer{
+  background-color: rgb(68, 68, 68);
+  padding: 40px;
+}
+#name-footer  i:hover {
+  font-size:30px;
+  }
